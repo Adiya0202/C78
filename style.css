@@ -1,0 +1,12 @@
+body{
+    background-image:url("rainbow\ merged.jfif");
+    background-position:center;
+    background-size:cover;
+    text-align:center;
+}
+#cover{
+    height:250px;
+}
+h1,h2{
+font-family: 'Satisfy', cursive;
+}
